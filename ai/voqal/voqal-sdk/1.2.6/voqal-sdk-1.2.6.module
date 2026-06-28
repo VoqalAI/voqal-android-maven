@@ -1,0 +1,189 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ai.voqal",
+    "module": "voqal-sdk",
+    "version": "1.2.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "voqal-sdk-1.2.6.aar",
+          "url": "voqal-sdk-1.2.6.aar",
+          "size": 574839,
+          "sha512": "42b4187ec90580d2c24f4ef023ccd9cea51c18a15a39d6958b55a8886b3db13b5d52b5ba10b89f1b1d51ae6c4748341783ab4adec5982fab0149671b6492f6e4",
+          "sha256": "04d0da07cacd8e3cd7d7416444363a428b24c1524f471081935ffc1f9b90b68e",
+          "sha1": "7af058af628622801f5935a11e2cf61c836953b2",
+          "md5": "2abb6635965081ea2dd43535bd262b96"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.compose",
+          "module": "compose-bom",
+          "version": {
+            "requires": "2025.01.00"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.16.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime-ktx",
+          "version": {
+            "requires": "2.8.7"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-viewmodel-compose",
+          "version": {
+            "requires": "2.8.7"
+          }
+        },
+        {
+          "group": "androidx.activity",
+          "module": "activity-compose",
+          "version": {
+            "requires": "1.9.2"
+          }
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui"
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-graphics"
+        },
+        {
+          "group": "androidx.compose.foundation",
+          "module": "foundation"
+        },
+        {
+          "group": "androidx.compose.material3",
+          "module": "material3"
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-tooling-preview"
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp-sse",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "io.coil-kt",
+          "module": "coil-compose",
+          "version": {
+            "requires": "2.7.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "voqal-sdk-1.2.6.aar",
+          "url": "voqal-sdk-1.2.6.aar",
+          "size": 574839,
+          "sha512": "42b4187ec90580d2c24f4ef023ccd9cea51c18a15a39d6958b55a8886b3db13b5d52b5ba10b89f1b1d51ae6c4748341783ab4adec5982fab0149671b6492f6e4",
+          "sha256": "04d0da07cacd8e3cd7d7416444363a428b24c1524f471081935ffc1f9b90b68e",
+          "sha1": "7af058af628622801f5935a11e2cf61c836953b2",
+          "md5": "2abb6635965081ea2dd43535bd262b96"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "voqal-sdk-1.2.6-sources.jar",
+          "url": "voqal-sdk-1.2.6-sources.jar",
+          "size": 104570,
+          "sha512": "c83a2ecff118ce87bf3150b88769cdcc9d286daf874e309e9664a8585493dbd29d3aa7107f74d182b46b5c7bc97107f4b67af6a66a4e06df6fbafd81a3a3124f",
+          "sha256": "ecd84f0d7e80dc9b381204d25de74b07e3391d69243692b1fc63b8f2c7b6e07b",
+          "sha1": "6d8b7917c00ee1996f05d4db760a7b095615f96b",
+          "md5": "85f66cb254b0dd9287d1d346ab2e1785"
+        }
+      ]
+    }
+  ]
+}
