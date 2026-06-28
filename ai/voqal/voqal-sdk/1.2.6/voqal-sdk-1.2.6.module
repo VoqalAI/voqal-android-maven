@@ -35,11 +35,11 @@
         {
           "name": "voqal-sdk-1.2.6.aar",
           "url": "voqal-sdk-1.2.6.aar",
-          "size": 574839,
-          "sha512": "42b4187ec90580d2c24f4ef023ccd9cea51c18a15a39d6958b55a8886b3db13b5d52b5ba10b89f1b1d51ae6c4748341783ab4adec5982fab0149671b6492f6e4",
-          "sha256": "04d0da07cacd8e3cd7d7416444363a428b24c1524f471081935ffc1f9b90b68e",
-          "sha1": "7af058af628622801f5935a11e2cf61c836953b2",
-          "md5": "2abb6635965081ea2dd43535bd262b96"
+          "size": 575016,
+          "sha512": "0e7e12df4c84821eba79643dda620f501993a1ddcd8a7cc40f315f17a6110e83346339006bb609f7573372fc036c47f51add1b848cfb5a37af248fb513423776",
+          "sha256": "76938016b2e564c0cffd0c0da5161bbc73e4f47a1be14f564ed4bccfab59669b",
+          "sha1": "b5f906fd3229e3fef1607e090a7c06a3c5884952",
+          "md5": "8fe7d84e333a45b2fa8bf20798739fbf"
         }
       ]
     },
@@ -157,31 +157,11 @@
         {
           "name": "voqal-sdk-1.2.6.aar",
           "url": "voqal-sdk-1.2.6.aar",
-          "size": 574839,
-          "sha512": "42b4187ec90580d2c24f4ef023ccd9cea51c18a15a39d6958b55a8886b3db13b5d52b5ba10b89f1b1d51ae6c4748341783ab4adec5982fab0149671b6492f6e4",
-          "sha256": "04d0da07cacd8e3cd7d7416444363a428b24c1524f471081935ffc1f9b90b68e",
-          "sha1": "7af058af628622801f5935a11e2cf61c836953b2",
-          "md5": "2abb6635965081ea2dd43535bd262b96"
-        }
-      ]
-    },
-    {
-      "name": "releaseVariantReleaseSourcePublication",
-      "attributes": {
-        "org.gradle.category": "documentation",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.docstype": "sources",
-        "org.gradle.usage": "java-runtime"
-      },
-      "files": [
-        {
-          "name": "voqal-sdk-1.2.6-sources.jar",
-          "url": "voqal-sdk-1.2.6-sources.jar",
-          "size": 104570,
-          "sha512": "c83a2ecff118ce87bf3150b88769cdcc9d286daf874e309e9664a8585493dbd29d3aa7107f74d182b46b5c7bc97107f4b67af6a66a4e06df6fbafd81a3a3124f",
-          "sha256": "ecd84f0d7e80dc9b381204d25de74b07e3391d69243692b1fc63b8f2c7b6e07b",
-          "sha1": "6d8b7917c00ee1996f05d4db760a7b095615f96b",
-          "md5": "85f66cb254b0dd9287d1d346ab2e1785"
+          "size": 575016,
+          "sha512": "0e7e12df4c84821eba79643dda620f501993a1ddcd8a7cc40f315f17a6110e83346339006bb609f7573372fc036c47f51add1b848cfb5a37af248fb513423776",
+          "sha256": "76938016b2e564c0cffd0c0da5161bbc73e4f47a1be14f564ed4bccfab59669b",
+          "sha1": "b5f906fd3229e3fef1607e090a7c06a3c5884952",
+          "md5": "8fe7d84e333a45b2fa8bf20798739fbf"
         }
       ]
     }
