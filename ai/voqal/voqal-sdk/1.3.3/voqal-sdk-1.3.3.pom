@@ -82,6 +82,11 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
+      <groupId>androidx.compose.material</groupId>
+      <artifactId>material-icons-extended</artifactId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
       <groupId>androidx.compose.ui</groupId>
       <artifactId>ui-tooling-preview</artifactId>
       <scope>runtime</scope>

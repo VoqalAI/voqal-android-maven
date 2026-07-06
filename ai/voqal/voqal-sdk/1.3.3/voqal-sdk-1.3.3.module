@@ -35,11 +35,11 @@
         {
           "name": "voqal-sdk-1.3.3.aar",
           "url": "voqal-sdk-1.3.3.aar",
-          "size": 590011,
-          "sha512": "61ae08e397a14a1f6dfd402440c9e6a1be38377129dc4aaf3a62a69714ff6032285ac2aae73056ceb795231c25cad60f060bd75b956c2ae461a265c7086e7416",
-          "sha256": "5bcb698f3fd4955f7550613f7ac30f9b4b86da30a67314afbcc1962b93dc142a",
-          "sha1": "eddd8db7b8ba820b31377830b2a86c11e758c9bd",
-          "md5": "baeae64b3689265d60a8adf02f3c7103"
+          "size": 591786,
+          "sha512": "669380117e90d17e96b7350f6d402df50784e949fe552aeb6f2c832f692c5fdae0b7d5c7aa5aa1a436ebe4cea4d6d3ac9824635e5868b2ef820372d1aedf7467",
+          "sha256": "6bbd25318c75e901d2405ce24ebc1aa7fe910bb1c910eb16de72ad6ce52e24a5",
+          "sha1": "71f5bb59b0c1dface2cf923f190065b6650fce5a",
+          "md5": "d1300847e05958f62f6f4a509907709e"
         }
       ]
     },
@@ -107,6 +107,10 @@
           "module": "material3"
         },
         {
+          "group": "androidx.compose.material",
+          "module": "material-icons-extended"
+        },
+        {
           "group": "androidx.compose.ui",
           "module": "ui-tooling-preview"
         },
@@ -157,11 +161,11 @@
         {
           "name": "voqal-sdk-1.3.3.aar",
           "url": "voqal-sdk-1.3.3.aar",
-          "size": 590011,
-          "sha512": "61ae08e397a14a1f6dfd402440c9e6a1be38377129dc4aaf3a62a69714ff6032285ac2aae73056ceb795231c25cad60f060bd75b956c2ae461a265c7086e7416",
-          "sha256": "5bcb698f3fd4955f7550613f7ac30f9b4b86da30a67314afbcc1962b93dc142a",
-          "sha1": "eddd8db7b8ba820b31377830b2a86c11e758c9bd",
-          "md5": "baeae64b3689265d60a8adf02f3c7103"
+          "size": 591786,
+          "sha512": "669380117e90d17e96b7350f6d402df50784e949fe552aeb6f2c832f692c5fdae0b7d5c7aa5aa1a436ebe4cea4d6d3ac9824635e5868b2ef820372d1aedf7467",
+          "sha256": "6bbd25318c75e901d2405ce24ebc1aa7fe910bb1c910eb16de72ad6ce52e24a5",
+          "sha1": "71f5bb59b0c1dface2cf923f190065b6650fce5a",
+          "md5": "d1300847e05958f62f6f4a509907709e"
         }
       ]
     }
