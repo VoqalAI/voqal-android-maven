@@ -35,11 +35,11 @@
         {
           "name": "voqal-sdk-1.3.3.aar",
           "url": "voqal-sdk-1.3.3.aar",
-          "size": 609804,
-          "sha512": "3abd54397cb77e9db36669ddbaf99acdd8ec461a1ff001efee335958585bb54c18ad9ba8d09d11baa0904a18463a8b2e0b52fba2fb24d11a46f1351f6495949d",
-          "sha256": "3b1df8c188c862da7d353cf7139ba1c6138b95d67c876a4adc2cc8843181d4fa",
-          "sha1": "fe06f997e2eabdf1940b6b8a488e8f93677a7c56",
-          "md5": "0b3bdda5890352a1a9887cadb6c5652c"
+          "size": 616724,
+          "sha512": "87a08412a1e7ab35356f7a4cc799c6fa2f5efcfc8a452723ee87086eeadc58ea15b92b63abd51f32a0a1f1f088d7ed4a74a30021654e85dbfc43f4465eba594a",
+          "sha256": "609aef231649956cb1afb98dd43dc9b1b19c0be4121444c1653b0616af748acf",
+          "sha1": "c22345e73eceb60dc6bbae3deb4ab6818487c902",
+          "md5": "b2b08a281cdb86834a8c4d55fe4057ad"
         }
       ]
     },
@@ -161,11 +161,11 @@
         {
           "name": "voqal-sdk-1.3.3.aar",
           "url": "voqal-sdk-1.3.3.aar",
-          "size": 609804,
-          "sha512": "3abd54397cb77e9db36669ddbaf99acdd8ec461a1ff001efee335958585bb54c18ad9ba8d09d11baa0904a18463a8b2e0b52fba2fb24d11a46f1351f6495949d",
-          "sha256": "3b1df8c188c862da7d353cf7139ba1c6138b95d67c876a4adc2cc8843181d4fa",
-          "sha1": "fe06f997e2eabdf1940b6b8a488e8f93677a7c56",
-          "md5": "0b3bdda5890352a1a9887cadb6c5652c"
+          "size": 616724,
+          "sha512": "87a08412a1e7ab35356f7a4cc799c6fa2f5efcfc8a452723ee87086eeadc58ea15b92b63abd51f32a0a1f1f088d7ed4a74a30021654e85dbfc43f4465eba594a",
+          "sha256": "609aef231649956cb1afb98dd43dc9b1b19c0be4121444c1653b0616af748acf",
+          "sha1": "c22345e73eceb60dc6bbae3deb4ab6818487c902",
+          "md5": "b2b08a281cdb86834a8c4d55fe4057ad"
         }
       ]
     }
