@@ -35,11 +35,11 @@
         {
           "name": "voqal-sdk-rabbit-1.5.1.aar",
           "url": "voqal-sdk-rabbit-1.5.1.aar",
-          "size": 1011015,
-          "sha512": "5bb24138b3cd1e65fbb172dadc9495aff37722ec27462e8a4fe6928e9f1b72d03f3f212f8180f75ba3f4f52e3b5c0ac65b3866cbffdef4f0aa8655ccc89858e1",
-          "sha256": "e0cabaab705da75cff6beb115b3ae97ca3705e8a716dc8a45519d5078c9eac4d",
-          "sha1": "be31963a013d8663c9538e591cadd33ed48704db",
-          "md5": "393334ec2811712710e2743fb55b5211"
+          "size": 1011026,
+          "sha512": "c83a4b820dbdd5a68e9f9193271c3b7e11bb2542cb55f681348b1c743f5e34a60580d66d8542220fbd9f26839d18c5ad6d3932c5ece8170fa2516ac0963f4c01",
+          "sha256": "ada1e36be3f4d673506588596ceae3dde58a105ae8a1f3c32bf5896453cdcef2",
+          "sha1": "f2650aa56a3a46539a2d6f330366b5b4c2d548eb",
+          "md5": "2de4132fdd8272e1cf9ea4bf3e2edb3f"
         }
       ]
     },
@@ -161,11 +161,11 @@
         {
           "name": "voqal-sdk-rabbit-1.5.1.aar",
           "url": "voqal-sdk-rabbit-1.5.1.aar",
-          "size": 1011015,
-          "sha512": "5bb24138b3cd1e65fbb172dadc9495aff37722ec27462e8a4fe6928e9f1b72d03f3f212f8180f75ba3f4f52e3b5c0ac65b3866cbffdef4f0aa8655ccc89858e1",
-          "sha256": "e0cabaab705da75cff6beb115b3ae97ca3705e8a716dc8a45519d5078c9eac4d",
-          "sha1": "be31963a013d8663c9538e591cadd33ed48704db",
-          "md5": "393334ec2811712710e2743fb55b5211"
+          "size": 1011026,
+          "sha512": "c83a4b820dbdd5a68e9f9193271c3b7e11bb2542cb55f681348b1c743f5e34a60580d66d8542220fbd9f26839d18c5ad6d3932c5ece8170fa2516ac0963f4c01",
+          "sha256": "ada1e36be3f4d673506588596ceae3dde58a105ae8a1f3c32bf5896453cdcef2",
+          "sha1": "f2650aa56a3a46539a2d6f330366b5b4c2d548eb",
+          "md5": "2de4132fdd8272e1cf9ea4bf3e2edb3f"
         }
       ]
     }
