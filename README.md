@@ -8,7 +8,7 @@ nothing to build and no account, token, or subscription required.
 
 ## Latest version
 
-`ai.voqal:voqal-sdk:2.0.0`
+`ai.voqal:voqal-sdk:2.0.1`
 
 ## Install
 
@@ -42,7 +42,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("ai.voqal:voqal-sdk:2.0.0")
+    implementation("ai.voqal:voqal-sdk:2.0.1")
 }
 ```
 
